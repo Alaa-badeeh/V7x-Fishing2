@@ -1,1 +1,1 @@
-sniper 77
+sniper 7
